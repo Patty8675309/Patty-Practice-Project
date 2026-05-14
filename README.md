@@ -1,5 +1,5 @@
 # PCunningham_RESUME
-My Resumé
+
 👋 Welcome
 
 This repository contains my professional resume and an overview of my background and career interests.
